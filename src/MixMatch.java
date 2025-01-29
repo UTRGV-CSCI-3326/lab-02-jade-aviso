@@ -9,7 +9,28 @@ public class MixMatch{
 
 
     //2-String
-    String 
+    String[] str ="hi";
+    System.out.println(str + "defintion")
+
+    //3-short
+    short notTall = 3;
+
+    //4-long
+    long notLong = 34567;
+
+    //5-char
+    char character = 'j';
+
+    //6-double
+    double two = -22354;
+
+    //7-float
+    float rootbeer = 0.3345;
+
+    //8-boolen
+    boolean answer = true;
+
+
 
 
 
