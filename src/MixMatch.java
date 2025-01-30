@@ -9,7 +9,7 @@ public class MixMatch{
 
     //2-String
     String str ="hi";
-    System.out.println(str + ": defintion");
+    System.out.println(str + ": A string is a variable that contains a collection of characters surrounded by double qoutes.");
 
     //3-short
     short notTall = 3;
@@ -21,19 +21,19 @@ public class MixMatch{
     
     //5-char
     char character = 'j';
-    System.out.println(character + "char stores a single character/letter or ASCII value");
+    System.out.println(character + ": char stores a single character/letter or ASCII value");
 
     //6-double
     double two = -22354;
-    System.out.println(two  + ": double stores fractional numbers. Up to  decimal digits");
+    System.out.println(two  + ": double stores fractional numbers. Up to 15-16 decimal digits");
 
     //7-float
-    float rootbeer = 1.45;
+    float rootbeer = 45;
     System.out.println(rootbeer + ": stores fraction numbers. can store 6-7 decimal digits");
 
     //8-boolen
     boolean answer = true;
-    System.out.println(answer + "definition");
+    System.out.println(answer + ": Boolen store true or false values.");
 
 
 
